@@ -7,4 +7,4 @@ O algoritmo também estima em qual instante do vídeo o palavrão foi dito.
 Ter o MATLAB instalado juntamente com seus packages de telecomunicação.
 
 ## Execução
-Basta executar o script no MATLAB.
+Basta executar o script no MATLAB, é importante resaltar que é necessário ter o arquivo do audio na pasta juntamente com o vetor do palavão (.mat).
