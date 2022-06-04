@@ -1,7 +1,4 @@
-%{
-Nome: Gabriel Alexandre de Souza Braga  R.A: 1826468
-Nome: Felipe Moreira da silva    R.A: 1992791
-%}
+%Gabriel Alexandre de Souza Braga
 clear;
 close all;
 clc;
